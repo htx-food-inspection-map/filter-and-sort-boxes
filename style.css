@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+}
+
+.container {
+	height: 100%;
+}
+
+.row {
+	height: 100%;
+}
+
+/*filter and sort boxes */
+.col-md-2 {
+	background-color: #FFFF99;
+	height: 225px;
+    border-radius: 25px;
+    border: 2px solid #8AC007;
+    padding: 20px; 
+}
+
+h3 {
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.dropdown {
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+
+.sortli {
+	margin-top: 10px;
+}
+
+/*side bar*/
+
+.col-md-4 {
+	height: 100%;
+	background-color: #ff6600;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+}
